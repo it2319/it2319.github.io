@@ -8,8 +8,8 @@ table, thead, tr, th, td{
 }
 .dcm{
     background-color: white;
-    width:80%;
-    margin: auto;
+    max-width:80%;
+    margin-left:10%
     border-left: solid;
     border-right: solid;
     border-color: gray;
