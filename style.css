@@ -9,7 +9,7 @@ table, thead, tr, th, td{
 .dcm{
     background-color: white;
     width:75%;
-    margin: 0 auto;
+    margin: auto;
     border-left: solid;
     border-right: solid;
     border-color: gray;
